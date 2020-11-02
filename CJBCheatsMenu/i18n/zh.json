@@ -24,10 +24,10 @@
     "player.title": "玩家",
     "player.infinite-stamina": "耐力不减",
     "player.infinite-health": "生命不减",
-    "player.instant-cooldowns": "Instant Weapon Cooldowns", // TODO
+    "player.instant-cooldowns": "装备无CD", 
     "player.inventory-size": "Inventory Size", // TODO
     "player.movement-speed": "移动速度增加",
-    "player.movement-speed.default": "normal", // TODO
+    "player.movement-speed.default": "移速回到正常", 
     "player.one-hit-kill": "一拳超人(对怪物)",
     "player.max-daily-luck": "每日运气最大",
 
@@ -212,12 +212,13 @@
     ** Controls tab
     *********/
     "controls.title": "按键绑定",
-    "controls.android-config-note": "You can change the on-screen buttons in the config files for the CJB Cheats Menu and Virtual Keyboard mods.", // TODO
+    "controls.android-config-note": "您可以更改CJB作弊菜单和虚拟键盘mods配置文件中的屏幕按钮。", //TODO review (auto-translated)
+
     "controls.open-menu": "打开菜单",
     "controls.freeze-time": "冻结时间",
     "controls.grow-tree": "树木立即长大",
     "controls.grow-crops": "作物立即成熟",
-    "controls.grow-radius": "Grow distance around player", // TODO
-    "controls.reset-controls": "Reset", // TODO
+    "controls.grow-radius": "在玩家周围生成草", 
+    "controls.reset-controls": "重置设定", 
     "controls.press-new-key": "绑定新按键..."
 }
